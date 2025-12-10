@@ -1,1 +1,2 @@
 mytestfile is ok
+i am second line
